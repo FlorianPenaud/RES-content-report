@@ -21,28 +21,28 @@ Usage Instructions<a name="instruction"></a>
 ===================
 
 1. Import project
-<p>Right click in package explorer
-<p>Select Import
-<p>General > Existing projects into Workspace
-<p>Select archive file then Browse to your sample archive
+<br>Right click in package explorer
+<br>Select Import
+<br>General > Existing projects into Workspace
+<br>Select archive file then Browse to your sample archive
 
 2. Start your Rule execution server
 
 3. Run sample
-Right click on RES_content_report project
-Run As > Run configurations > new Java Application
-On Main tab :
-Project:RES_content_report
-Main class:sample.JavaClient
-On the Arguments tab:
-In Program arguments add : hostname port RESuser RESpassword
-for instance localhost 9090 resAdmin resAdmin
-Then click on Run
+<br>Right click on RES_content_report project
+<br>Run As > Run configurations > new Java Application
+<br>On Main tab :
+<br>Project:RES_content_report
+<br>Main class:sample.JavaClient
+<br>On the Arguments tab:
+<br>In Program arguments add : hostname port RESuser RESpassword
+<br>for instance localhost 9090 resAdmin resAdmin
+<br>Then click on Run
 
 5. Show result
-Right click on sample project > Refresh
-You now see a report.html file
-Right click on it > Open with > Web Browser
+<br>Right click on sample project > Refresh
+<br>You now see a report.html file
+<br>Right click on it > Open with > Web Browser
 
 Details<a name="details"></a>
 ============
@@ -55,7 +55,7 @@ This project has a single class JavaClient.java.
 
 #### retrieve the list of all ruleApps
 This is achieved using a call to rest API:
-http://<HOST>:<PORT>/res/apiauth/ruleapps
+<br>http://<HOST>:<PORT>/res/apiauth/ruleapps
 
 #### creation of xml
 The output of the rest call is redirected to an xml file : report.xml
