@@ -22,9 +22,9 @@ Usage Instructions<a name="instruction"></a>
 
 1. Import project
 <p>Right click in package explorer
-Select Import
-General > Existing projects into Workspace
-Select archive file then Browse to your sample archive
+<p>Select Import
+<p>General > Existing projects into Workspace
+<p>Select archive file then Browse to your sample archive
 
 2. Start your Rule execution server
 
