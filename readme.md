@@ -55,7 +55,7 @@ This project has a single class JavaClient.java.
 
 #### retrieve the list of all ruleApps
 This is achieved using a call to rest API:
-<br>http://<HOST>:<PORT>/res/apiauth/ruleapps
+<br>http://HOST:PORT/res/apiauth/ruleapps
 
 #### creation of xml
 The output of the rest call is redirected to an xml file : report.xml
