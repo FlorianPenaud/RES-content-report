@@ -21,7 +21,7 @@ Usage Instructions<a name="instruction"></a>
 ===================
 
 1. Import project
-Right click in package explorer
+<p>Right click in package explorer
 Select Import
 General > Existing projects into Workspace
 Select archive file then Browse to your sample archive
