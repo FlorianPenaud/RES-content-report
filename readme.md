@@ -10,7 +10,7 @@ Introduction<a name="intro"></a>
 ============
 
 This document provides an example on how to create a report of the RES content : ruleApps and rulesets
-You can import this sample into an existing rule Designer.
+You can import this sample into an existing Rule Designer.
 
 Version(s) Supported<a name="versions"></a>
 ====================
