@@ -9,8 +9,8 @@ Table of Contents
 Introduction<a name="intro"></a>
 ============
 
-This document provides an example on how to create a report of the RES content : ruleApps and rulesets
-You can import this sample into an existing Rule Designer.
+This repository provides an example to report ruleApps and rulesets contained in an IBM Rule Execution Server console.
+You can import this sample into an existing IBM Rule Designer.
 
 Version(s) Supported<a name="versions"></a>
 ====================
